@@ -216,7 +216,7 @@ a{
         margin: 0px; 
         float:left;
         overflow-x: hidden;
-        width: 90vw; 
+        width: 100%; 
 
     }
     nav{
